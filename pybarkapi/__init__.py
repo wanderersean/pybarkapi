@@ -1,1 +1,1 @@
-from pybarkapi.pybarkapi import Bark
+from pybarkapi import Bark
